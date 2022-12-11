@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4DA64FC7-BDF4-4EE5-8510-8B9EF3B0E5EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFF4CABD-C42D-4F3E-BD0B-3EB8D409FDF9"
+            shouldBeEnabled = "No"
+            condition = "treeMatrix[i][j] == &quot;8&quot;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Advent2022/Puzzles/Puzzle8.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "visibleTrees(treeMatrix:i:j:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
